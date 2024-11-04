@@ -1,0 +1,6 @@
+/dataset
+/AF_dataset/validation
+/AF_dataset/images
+/data
+best_model_full.pth
+best_model.pth
