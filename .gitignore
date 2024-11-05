@@ -1,6 +1,6 @@
 /dataset
-/AF_dataset/validation
-/AF_dataset/images
+/test
+/images
 /data
 best_model_full.pth
 best_model.pth
