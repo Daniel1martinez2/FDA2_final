@@ -2,5 +2,6 @@
 /test
 /images
 /data
+/data2
 best_model_full.pth
 best_model.pth
